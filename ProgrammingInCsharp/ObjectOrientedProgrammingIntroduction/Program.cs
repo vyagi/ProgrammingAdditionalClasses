@@ -15,6 +15,7 @@ Console.WriteLine(s2.IsBmiCorrect());
 s1.Weight = 75;
 Console.WriteLine(s1.IsBmiCorrect());
 
+//Encapsulation
 class Person
 {
     private int _weight;
